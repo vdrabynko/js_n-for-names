@@ -1,8 +1,8 @@
 {
-  "name": "js-task-boilerplate",
+  "name": "n-is-for-name",
   "version": "1.0.0",
-  "description": "js task boilerplate",
-  "main": "src/sum.js",
+  "description": "N is for Name",
+  "main": "src/nIsForName.js",
   "scripts": {
     "test": "jest",
     "lint": "eslint **/*.js"

@@ -1,4 +1,4 @@
-# Boilerplate for JS tasks
+# N is for Name
 
 **Read the guideline before start**
 
