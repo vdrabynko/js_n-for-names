@@ -1,7 +1,7 @@
 'use strict';
 
 /**
- * Implement NIsForName function:
+ * Implement nIsForName function:
  *
  * You are given an array of full names of several people. Return an array that
  * contains only those of the given names that satisfy the property: at least
@@ -21,8 +21,8 @@
  *
  * @return {string[]}
  */
-function NIsForName(names) {
+function nIsForName(names) {
   // write code here
 }
 
-module.exports = NIsForName;
+module.exports = nIsForName;
