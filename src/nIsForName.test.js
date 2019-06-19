@@ -96,3 +96,11 @@ test('100 people', () => {
         'Iybx Nmzkbszev', 'Nhmhqnqq Zixcg Euwpf', 'Nyq Dkstjkh',
         'Qal Nyq Aetib']);
 });
+
+test('Should ignore "N" inside the word', () => {
+  expect(nIsForName(
+    ['Jjuwg Hjp Kzgsol', 'Estyapvg Byaqulpk Waheicsbv', 'Tter Lkjsigf',
+      'Mlxi Lilz', 'Obkg Haotkyao', 'Ipllprypc Laueddl Utld', 'DragN Dropo',
+      'Rimygcu Yprqvu Etpgxjt', 'Ryft Iwrcuhx', 'Fl Vxme', 'Lbjhj Woeythqpp']))
+    .toEqual([]);
+});
